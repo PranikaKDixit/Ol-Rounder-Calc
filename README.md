@@ -1,4 +1,4 @@
-An Ol' Rounder Calculator Application
+An Ol' Rounder Calculator Application 
 We can perform basic arithmatic functions which includes: 
                     1. Adding Two Numbers 
                     2. Substracting Two Numbers 
